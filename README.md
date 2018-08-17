@@ -155,5 +155,5 @@ target_link_libraries( # Specifies the target library.
 
 
 ### 9、运行
-![NdkDemo](images/ndk8.png)
+![NdkDemo](images/ndk5.png)
 
