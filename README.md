@@ -53,7 +53,7 @@ public class Java2CJNI {
 
 ### 4、通过javah命令获取到本地头文件
 
-在项目根目录下，进入main->java目录，全选文件目录栏，直接输入cmd命令并按回车键进入docs命令，在命令中执行javah com.sanhui.ndkdemo.Java2CJNI命令：
+在项目根目录下，进入main->java目录，全选文件目录栏，直接输入cmd命令并按回车键进入docs命令，在命令中执行**javah com.szgentech.ndkdemo.Java2CJNI**命令：
 执行完javah命令后，在java当前目录下创建一个.h的头文件，
 ![NdkDemo](images/ndk4.png)
 
