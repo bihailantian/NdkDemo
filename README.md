@@ -59,7 +59,7 @@ public class Java2CJNI {
 
 
 ### 5、创建**jni**文件夹并把.h文件放到**jni**文件夹中
-![NdkDemo](images/ndk5.png)
+![NdkDemo](images/ndk5.png){:width="100px",height="100px"}
 
 
 ### 6、 创建实现头文件的.C源文件
