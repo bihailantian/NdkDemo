@@ -150,7 +150,7 @@ target_link_libraries( # Specifies the target library.
 
 
 ### 8、生成so文件
-在项目的工具类中选择Build->Rebuild Project，进行重新编译工程，然后AS会为我们生成so文件，so文件所在目录为：app/build/intermediates/cmake/debug/obj下
+在项目的工具类中选择Build->Rebuild Project，进行重新编译工程，然后AS会为我们生成so文件，so文件所在目录为：app/build/intermediates/cmake/debug/obj下  
 ![NdkDemo](images/ndk6.png)
 
 
